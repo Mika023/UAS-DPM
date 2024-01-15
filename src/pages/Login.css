@@ -1,0 +1,113 @@
+.login-child {
+  position: absolute;
+  top: 43.69rem;
+  left: -2.41rem;
+  width: 27.03rem;
+  height: 8.78rem;
+}
+.login-inner,
+.login-item {
+  position: absolute;
+  height: 2.69rem;
+}
+.login-item {
+  top: 47.94rem;
+  left: -3.62rem;
+  background-color: var(--color-cornflowerblue-100);
+  width: 27.81rem;
+}
+.login-inner {
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue-200);
+  width: 22.5rem;
+}
+.login-child1 {
+  position: absolute;
+  top: 16.44rem;
+  left: 2.25rem;
+  border-radius: var(--br-12xl);
+  background-color: var(--color-lightsteelblue);
+  width: 18rem;
+  height: 19.38rem;
+}
+.login-child2,
+.login-child3,
+.login-child4 {
+  position: absolute;
+  top: 19.81rem;
+  left: 3.94rem;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gainsboro);
+  width: 14.88rem;
+  height: 2.88rem;
+  mix-blend-mode: screen;
+}
+.login-child3,
+.login-child4 {
+  top: 25.56rem;
+}
+.login-child4 {
+  top: 30.5rem;
+  left: 7.44rem;
+  background-color: var(--color-royalblue);
+  width: 7.94rem;
+  mix-blend-mode: color-burn;
+}
+.hi-welcome {
+  position: absolute;
+  top: 13.19rem;
+  left: 6.19rem;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+  font-family: var(--font-merriweather-sans);
+}
+.email1,
+.password1 {
+  position: absolute;
+  top: 18.13rem;
+  left: 3.94rem;
+}
+.password1 {
+  top: 23.88rem;
+  font-family: var(--font-mochiy-pop-one);
+}
+.log-in {
+  position: absolute;
+  top: 31.19rem;
+  left: 9.69rem;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.login-child5 {
+  position: absolute;
+  top: 37.38rem;
+  left: 4.94rem;
+  border-radius: var(--br-sm);
+  background-color: #cbd273;
+  width: 12.88rem;
+  height: 2.38rem;
+}
+.ga-punya-akun,
+.log-in-as {
+  position: absolute;
+  top: 37.81rem;
+  left: 6.88rem;
+  cursor: pointer;
+}
+.ga-punya-akun {
+  top: 40rem;
+  left: 6.19rem;
+  font-size: var(--font-size-xs);
+}
+.login {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 50rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-mochiy-pop-p-one);
+}

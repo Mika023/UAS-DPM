@@ -1,0 +1,301 @@
+.free-fire-tab-child {
+  position: absolute;
+  top: -2.12rem;
+  left: -3.37rem;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-cornflowerblue-100);
+  width: 30.81rem;
+  height: 12.31rem;
+}
+.free-fire-tab-item {
+  position: absolute;
+  top: 43.69rem;
+  left: -2.41rem;
+  width: 27.03rem;
+  height: 8.78rem;
+}
+.free-fire-tab-inner {
+  position: absolute;
+  top: 47.94rem;
+  left: -3.62rem;
+  background-color: var(--color-cornflowerblue-100);
+  width: 27.81rem;
+  height: 2.69rem;
+}
+.free-fire-tab-child1 {
+  position: absolute;
+  top: -1.5rem;
+  left: -1.62rem;
+  background-color: var(--color-cornflowerblue-200);
+  width: 24.44rem;
+  height: 4.19rem;
+}
+.free-fire-banner {
+  position: absolute;
+  top: 3.44rem;
+  left: 3.81rem;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 14.88rem;
+  height: 3.5rem;
+  opacity: 0.66;
+}
+.jenis-topup-freefire-child16,
+.jenis-topup-freefire-child17 {
+  position: absolute;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+}
+.jenis-topup-freefire-child16 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xl);
+  border: 3px solid var(--color-cornflowerblue-100);
+  width: 20.5rem;
+  height: 13.25rem;
+}
+.jenis-topup-freefire-child17 {
+  top: 1.13rem;
+  left: 1.13rem;
+  border-radius: var(--br-mini);
+  border: 2px solid var(--color-cornflowerblue-100);
+  width: 4.31rem;
+  height: 5.25rem;
+}
+.jenis-topup-freefire-child18,
+.jenis-topup-freefire-child19,
+.jenis-topup-freefire-child20,
+.jenis-topup-freefire-child21,
+.jenis-topup-freefire-child22,
+.jenis-topup-freefire-child23,
+.jenis-topup-freefire-child24 {
+  position: absolute;
+  top: 1.13rem;
+  left: 5.75rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+  width: 4.31rem;
+  height: 5.25rem;
+}
+.jenis-topup-freefire-child19,
+.jenis-topup-freefire-child20,
+.jenis-topup-freefire-child21,
+.jenis-topup-freefire-child22,
+.jenis-topup-freefire-child23,
+.jenis-topup-freefire-child24 {
+  left: 10.38rem;
+}
+.jenis-topup-freefire-child20,
+.jenis-topup-freefire-child21,
+.jenis-topup-freefire-child22,
+.jenis-topup-freefire-child23,
+.jenis-topup-freefire-child24 {
+  left: 15rem;
+}
+.jenis-topup-freefire-child21,
+.jenis-topup-freefire-child22,
+.jenis-topup-freefire-child23,
+.jenis-topup-freefire-child24 {
+  top: 6.81rem;
+  left: 1.13rem;
+}
+.jenis-topup-freefire-child22,
+.jenis-topup-freefire-child23,
+.jenis-topup-freefire-child24 {
+  left: 5.75rem;
+}
+.jenis-topup-freefire-child23,
+.jenis-topup-freefire-child24 {
+  left: 10.38rem;
+}
+.jenis-topup-freefire-child24 {
+  left: 15rem;
+}
+.jenis-topup-freefire2 {
+  position: absolute;
+  top: 20.63rem;
+  left: 1rem;
+  width: 20.5rem;
+  height: 13.25rem;
+}
+.tab-id-child6,
+.tab-id-child7 {
+  position: absolute;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+}
+.tab-id-child6 {
+  top: 0.69rem;
+  left: 0;
+  width: 20.5rem;
+  height: 8.25rem;
+}
+.tab-id-child7 {
+  top: 3.06rem;
+  left: 1.06rem;
+  width: 16rem;
+  height: 2.69rem;
+}
+.deskripsi2,
+.masukkan-id-kamu2 {
+  position: absolute;
+  top: 3.94rem;
+  left: 4.69rem;
+  font-weight: 800;
+}
+.deskripsi2 {
+  top: 6.38rem;
+  left: 1.75rem;
+}
+.tab-id-child8 {
+  position: absolute;
+  top: 0;
+  left: 1.06rem;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+  width: 8.56rem;
+  height: 2.44rem;
+}
+.your-id2 {
+  position: absolute;
+  top: 0.44rem;
+  left: 3.06rem;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: var(--color-gray-100);
+}
+.tab-id2 {
+  position: absolute;
+  top: 10.94rem;
+  left: 1rem;
+  width: 20.5rem;
+  height: 8.94rem;
+  color: var(--color-gray-200);
+}
+.tab-nomor-child2,
+.tab-nomor-child3 {
+  position: absolute;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+}
+.tab-nomor-child2 {
+  top: 0.81rem;
+  left: 0;
+  width: 20.5rem;
+  height: 2.25rem;
+}
+.tab-nomor-child3 {
+  top: 0;
+  left: 1.13rem;
+  width: 5.75rem;
+  height: 1.25rem;
+}
+.nomor3 {
+  position: absolute;
+  top: 0;
+  left: 2.44rem;
+  font-weight: 800;
+}
+.masukkin-nomor-wa2,
+.tab-nomor2 {
+  position: absolute;
+  top: 1.56rem;
+  left: 5.13rem;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+}
+.tab-nomor2 {
+  top: 34.19rem;
+  left: 1rem;
+  width: 20.5rem;
+  height: 3.06rem;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.metode-pembayaran-child2 {
+  position: absolute;
+  top: 37.08rem;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+  width: 20.5rem;
+  height: 3.5rem;
+}
+.metode-pembayaran6 {
+  position: absolute;
+  top: 38.33rem;
+  left: 1.31rem;
+}
+.metode-pembayaran-child3 {
+  position: absolute;
+  top: 38.45rem;
+  left: 18.69rem;
+  width: 0.81rem;
+  height: 0.69rem;
+  opacity: 0.6;
+}
+.metode-pembayaran-child4 {
+  position: absolute;
+  width: calc(100% - 301.4px);
+  top: 0;
+  right: 18.73rem;
+  left: 0.11rem;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1.39rem;
+  object-fit: contain;
+  opacity: 0.6;
+  mix-blend-mode: screen;
+  cursor: pointer;
+}
+.metode-pembayaran5 {
+  position: absolute;
+  top: 0.56rem;
+  left: 0.38rem;
+  width: 20.5rem;
+  height: 40.58rem;
+  color: var(--color-darkslateblue-100);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 10.75rem;
+  height: 1.75rem;
+}
+.submit2 {
+  position: absolute;
+  top: 0.38rem;
+  left: 4rem;
+  cursor: pointer;
+}
+.submit-tab2 {
+  position: absolute;
+  top: 42.81rem;
+  left: 6rem;
+  width: 10.75rem;
+  height: 1.75rem;
+}
+.free-fire-tab {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 50rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-merriweather-sans);
+}

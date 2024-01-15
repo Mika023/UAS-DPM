@@ -1,0 +1,116 @@
+.confirm-payment-child,
+.confirm-payment-item {
+  position: absolute;
+  top: 2.19rem;
+  left: 1.88rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue-200);
+  width: 18.69rem;
+  height: 2.13rem;
+}
+.confirm-payment-item {
+  top: 22rem;
+  border-radius: var(--br-21xl);
+}
+.bayar,
+.menunggu-konfirmasi-pembayaran {
+  position: absolute;
+  left: 2.75rem;
+  font-size: var(--font-size-sm);
+  font-weight: 800;
+  color: var(--color-lightsteelblue-100);
+  display: inline-block;
+  width: 16.88rem;
+}
+.bayar {
+  top: 22.5rem;
+  cursor: pointer;
+}
+.menunggu-konfirmasi-pembayaran {
+  top: 2.69rem;
+}
+.confirm-payment-child1,
+.confirm-payment-inner {
+  position: absolute;
+  top: 5.19rem;
+  left: 0.88rem;
+  border-radius: var(--br-lgi);
+  border: 1px solid var(--color-cornflowerblue-200);
+  box-sizing: border-box;
+  width: 20.94rem;
+  height: 10.88rem;
+}
+.confirm-payment-child1 {
+  top: 16.94rem;
+  height: 3.31rem;
+}
+.no-transaksi {
+  top: 6.56rem;
+  left: 1.31rem;
+  font-size: var(--font-size-2xs);
+}
+.b,
+.nama-barang,
+.no-transaksi {
+  position: absolute;
+}
+.b {
+  top: 6.81rem;
+  left: 18.19rem;
+  color: var(--color-cornflowerblue-100);
+}
+.nama-barang {
+  top: 7.63rem;
+  left: 1.31rem;
+  font-size: var(--font-size-2xs);
+}
+.jumlah-pembayaran,
+.rp-123123123 {
+  position: absolute;
+  top: 13rem;
+  left: 1.31rem;
+}
+.rp-123123123 {
+  left: 16.75rem;
+  color: var(--color-cornflowerblue-100);
+}
+.top-up-diamond {
+  margin: 0;
+}
+.top-up-diamond-container {
+  position: absolute;
+  top: 9.69rem;
+  left: 6.31rem;
+  display: inline-block;
+  width: 5.13rem;
+  height: 1.56rem;
+}
+.confirm-payment-child2 {
+  position: absolute;
+  top: 8.88rem;
+  left: 1.63rem;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-cornflowerblue-100);
+  width: 3.88rem;
+  height: 3.56rem;
+}
+.bank-a,
+.metode-pembayaran {
+  position: absolute;
+  top: 18.19rem;
+  left: 1.88rem;
+}
+.bank-a {
+  left: 17.44rem;
+}
+.confirm-payment {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 50rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-merriweather-sans);
+}

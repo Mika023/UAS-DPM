@@ -1,0 +1,329 @@
+.genshin-impact-tab-child {
+  position: absolute;
+  top: -2.12rem;
+  left: -3.37rem;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-cornflowerblue-100);
+  width: 30.81rem;
+  height: 12.31rem;
+}
+.genshin-impact-tab-item,
+.submit-tab-item {
+  position: absolute;
+  top: 43.69rem;
+  left: -2.41rem;
+  width: 27.03rem;
+  height: 8.78rem;
+}
+.submit-tab-item {
+  top: 44.31rem;
+  left: 9.63rem;
+  border-radius: var(--br-sm);
+  width: 10.75rem;
+  height: 1.75rem;
+}
+.submit1 {
+  position: absolute;
+  top: 44.69rem;
+  left: 13.63rem;
+  cursor: pointer;
+}
+.submit-tab-inner {
+  position: absolute;
+  top: 49.44rem;
+  left: 0;
+  background-color: var(--color-cornflowerblue-100);
+  width: 27.81rem;
+  height: 2.69rem;
+}
+.submit-tab-child1 {
+  position: absolute;
+  top: 0;
+  left: 2rem;
+  background-color: var(--color-cornflowerblue-200);
+  width: 24.44rem;
+  height: 4.19rem;
+}
+.submit-tab1 {
+  position: absolute;
+  top: -1.5rem;
+  left: -3.62rem;
+  width: 27.81rem;
+  height: 52.13rem;
+}
+.genshin-impact-banner {
+  position: absolute;
+  top: 3.44rem;
+  left: 2.06rem;
+  font-size: 2.25rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 18.31rem;
+  height: 6.19rem;
+  opacity: 0.66;
+}
+.tab-id-child1,
+.tab-id-child2 {
+  position: absolute;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+}
+.tab-id-child1 {
+  top: 0.69rem;
+  left: 0;
+  border-radius: var(--br-2xl);
+  border: 2px solid var(--color-cornflowerblue-100);
+  width: 20.5rem;
+  height: 6.88rem;
+}
+.tab-id-child2 {
+  top: 2.06rem;
+  left: 0.88rem;
+  border-radius: var(--br-7xl);
+  border: 3px solid var(--color-cornflowerblue-100);
+  width: 16rem;
+  height: 2.69rem;
+}
+.deskripsi1,
+.masukkan-id-kamu1 {
+  position: absolute;
+  top: 2.94rem;
+  left: 4.81rem;
+  font-weight: 800;
+}
+.deskripsi1 {
+  top: 5.31rem;
+  left: 1.69rem;
+}
+.tab-id-child3 {
+  position: absolute;
+  top: 0;
+  left: 1.06rem;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+  width: 6.38rem;
+  height: 1.63rem;
+}
+.your-id1 {
+  position: absolute;
+  top: 0.31rem;
+  left: 1.69rem;
+  font-weight: 800;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 5.13rem;
+  height: 1.75rem;
+}
+.tab-id-child4 {
+  position: absolute;
+  top: 8.06rem;
+  left: 3.31rem;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 13.88rem;
+  height: 2.19rem;
+}
+.pilih-server {
+  position: absolute;
+  top: 8.69rem;
+  left: 7.44rem;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.71);
+}
+.tab-id-child5 {
+  position: absolute;
+  top: 8.75rem;
+  left: 13rem;
+  width: 0.81rem;
+  height: 0.69rem;
+  opacity: 0.6;
+}
+.tab-id1 {
+  position: absolute;
+  top: 10.94rem;
+  left: 1rem;
+  width: 20.5rem;
+  height: 10.25rem;
+  color: var(--color-gray-200);
+}
+.jenis-topup-freefire-child7,
+.jenis-topup-freefire-child8 {
+  position: absolute;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+}
+.jenis-topup-freefire-child7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xl);
+  border: 3px solid var(--color-cornflowerblue-100);
+  width: 20.88rem;
+  height: 10.78rem;
+}
+.jenis-topup-freefire-child8 {
+  top: 0.91rem;
+  left: 1.14rem;
+  border-radius: var(--br-mini);
+  border: 2px solid var(--color-cornflowerblue-100);
+  width: 4.39rem;
+  height: 4.27rem;
+}
+.jenis-topup-freefire-child10,
+.jenis-topup-freefire-child11,
+.jenis-topup-freefire-child12,
+.jenis-topup-freefire-child13,
+.jenis-topup-freefire-child14,
+.jenis-topup-freefire-child15,
+.jenis-topup-freefire-child9 {
+  position: absolute;
+  top: 0.91rem;
+  left: 5.86rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+  width: 4.39rem;
+  height: 4.27rem;
+}
+.jenis-topup-freefire-child10,
+.jenis-topup-freefire-child11,
+.jenis-topup-freefire-child12,
+.jenis-topup-freefire-child13,
+.jenis-topup-freefire-child14,
+.jenis-topup-freefire-child15 {
+  left: 10.56rem;
+}
+.jenis-topup-freefire-child11,
+.jenis-topup-freefire-child12,
+.jenis-topup-freefire-child13,
+.jenis-topup-freefire-child14,
+.jenis-topup-freefire-child15 {
+  left: 15.28rem;
+}
+.jenis-topup-freefire-child12,
+.jenis-topup-freefire-child13,
+.jenis-topup-freefire-child14,
+.jenis-topup-freefire-child15 {
+  top: 5.54rem;
+  left: 1.14rem;
+}
+.jenis-topup-freefire-child13,
+.jenis-topup-freefire-child14,
+.jenis-topup-freefire-child15 {
+  left: 5.86rem;
+}
+.jenis-topup-freefire-child14,
+.jenis-topup-freefire-child15 {
+  left: 10.56rem;
+}
+.jenis-topup-freefire-child15 {
+  left: 15.28rem;
+}
+.jenis-topup-freefire1 {
+  position: absolute;
+  top: 21.94rem;
+  left: 0.81rem;
+  width: 20.88rem;
+  height: 10.78rem;
+}
+.tab-nomor-child1,
+.tab-nomor-inner {
+  position: absolute;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+}
+.tab-nomor-inner {
+  top: 0.81rem;
+  left: 0;
+  width: 20.5rem;
+  height: 2.25rem;
+}
+.tab-nomor-child1 {
+  top: 0;
+  left: 1.13rem;
+  width: 5.75rem;
+  height: 1.25rem;
+}
+.nomor2 {
+  position: absolute;
+  top: 0;
+  left: 2.44rem;
+  font-weight: 800;
+}
+.masukkin-nomor-wa1,
+.tab-nomor1 {
+  position: absolute;
+  top: 1.56rem;
+  left: 5.13rem;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+}
+.tab-nomor1 {
+  top: 33.44rem;
+  left: 1rem;
+  width: 20.5rem;
+  height: 3.06rem;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.metode-pembayaran-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-cornflowerblue-100);
+  box-sizing: border-box;
+  width: 20.5rem;
+  height: 3.5rem;
+}
+.metode-pembayaran4 {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.31rem;
+}
+.metode-pembayaran-child1 {
+  position: absolute;
+  top: 1.38rem;
+  left: 18.69rem;
+  width: 0.81rem;
+  height: 0.69rem;
+  opacity: 0.6;
+}
+.metode-pembayaran3 {
+  position: absolute;
+  top: 37.25rem;
+  left: 1rem;
+  width: 20.5rem;
+  height: 3.5rem;
+  color: var(--color-darkslateblue-100);
+}
+.genshin-impact-tab-inner {
+  position: absolute;
+  width: calc(100% - 333.4px);
+  top: 0.56rem;
+  right: 20.34rem;
+  left: 0.5rem;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1.39rem;
+  object-fit: contain;
+  opacity: 0.6;
+  mix-blend-mode: screen;
+  cursor: pointer;
+}
+.genshin-impact-tab {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 50rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-merriweather-sans);
+}
